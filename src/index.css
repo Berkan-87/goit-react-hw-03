@@ -99,6 +99,7 @@ button {
   font-size: 1rem;
   font-weight: bold;
   transition: all 0.3s ease;
+  color: #242424;
 }
 
 input {
@@ -139,7 +140,7 @@ button:hover {
   width: 100%;
   border-radius: 10px;
   transition: letter-spacing 400ms ease;
-  box-shadow: 5px 5px 15px #A0A0A0, -5px -5px 15px #FFFFFF;
+  box-shadow: 5px 5px 15px #574f4f, -5px -5px 15px #FFFFFF;
 }
 
 .ContactList .ContactItem:hover {
@@ -150,3 +151,4 @@ button:hover {
   letter-spacing: 0.05em;
   color: rgb(211, 118, 118);
 }
+
